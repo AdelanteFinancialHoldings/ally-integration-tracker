@@ -19,6 +19,7 @@
   "homepage": "https://github.com/AdelanteFinancialHoldings/ally-integration-tracker#readme",
   "dependencies": {
     "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
     "csvtojson": "^2.0.10",
     "wappalyzer": "^6.10.62"
   }
